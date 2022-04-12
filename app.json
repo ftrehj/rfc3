@@ -22,8 +22,8 @@
     }
    
   },
-  "website": "https://github.com/louyour/nginx-Manual",
-  "repository": "https://github.com/louyour/nginx-Manual",
+  "website": "https://github.com/ftrehj/rfc3",
+  "repository": "https://github.com/ftrehj/rfc3",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
